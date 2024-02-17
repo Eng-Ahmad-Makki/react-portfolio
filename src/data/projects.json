@@ -1,0 +1,30 @@
+[
+  {
+    "title": "portfolio",
+    "imageSrc": "projects/portfolio.png",
+    "description": "I made This portfolio from scratch following best guide using Vite with React JS",
+    "skills": ["React JS", "Vite", "CSS", "Html"],
+    "source": ""
+  },
+  {
+    "title": "Weather App",
+    "imageSrc": "projects/weatherApp.png",
+    "description": "I made This weather app with in a single page that is easy and fast reply to the current weather",
+    "skills": ["React JS", "CSS", "Html", "APIs"],
+    "source": ""
+  },
+  {
+    "title": "crud App",
+    "imageSrc": "projects/courseApp.png",
+    "description": "I made This App in the road of learning React JS, you can check it out link down below",
+    "skills": ["React JS", "CSS", "Html"],
+    "source": ""
+  },
+  {
+    "title": "Todo App",
+    "imageSrc": "projects/todoApp.png",
+    "description": "I made This todo app with a single page using ReactJS Html,Css, you can add and deletes from the todo list",
+    "skills": ["React JS", "CSS", "Html"],
+    "source": ""
+  }
+]

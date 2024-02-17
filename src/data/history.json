@@ -1,0 +1,19 @@
+[
+  {
+    "role": "IT support",
+    "organization": "minister Of alHajj",
+    "startDate": "2015",
+    "endDate": "2018",
+    "experiences": ["dealing with all kind of technology",
+  "support for all hardware"],
+    "imageSrc": "history/alhajj.png"
+  },
+  {
+    "role": "Software Engineer",
+    "organization": "FreeLance",
+    "startDate": "2020",
+    "endDate": "present",
+    "experiences": ["FrontEnd web developer", "web designer"],
+    "imageSrc": "history/microsoft.png"
+  }
+]
