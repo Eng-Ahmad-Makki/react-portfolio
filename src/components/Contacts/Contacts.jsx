@@ -33,7 +33,7 @@ function Contacts() {
         </li>
 
         <li className={styles.link}>
-          <a href="https://wa.me/995557828">
+          <a href="https://wa.me/963995557828">
             <img src={getImageUrl("contact/whatsup.png")} alt="Whats'up icon" />
           </a>
         </li>
