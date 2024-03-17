@@ -2,29 +2,43 @@
   {
     "title": "portfolio",
     "imageSrc": "projects/portfolio.png",
-    "description": "I made This portfolio from scratch following best guide using Vite with React JS",
+    "description": "I made my portfolio following best guide using Vite with React JS",
     "skills": ["React JS", "Vite", "CSS", "Html"],
-    "source": ""
+    "source": "https://github.com/Eng-Ahmad-Makki/react-portfolio.git",
+    "demo": "https://ahmad-potfolio-makki.netlify.app/ "
+  },
+  {
+    "title": "Moayed Portfolio",
+    "imageSrc": "projects/moayedportfolio.png",
+    "description": "Moayed Harba can sute you with a nice home in dubai",
+    "skills": ["React JS", "Vite", "Html", "Tailwind"],
+    "source": "",
+    "demo": "https://moayedharba-portfolio.netlify.app/"
+
+  },
+  {
+    "title": "Dentist Rabea Al-Sakka",
+    "imageSrc": "projects/rabeaportfolio.png",
+    "description": "Dentist Rabea Alsakka is the best DR that will make your smile better",
+    "skills": ["React JS", "Vite", "Html", "Tailwind"],
+    "source": "",
+    "demo": "https://dentist-rabea-alsakka.netlify.app/"
+
   },
   {
     "title": "Weather App",
     "imageSrc": "projects/weatherApp.png",
-    "description": "I made This weather app with in a single page that is easy and fast reply to the current weather",
+    "description": "easy and fast reply to the current weather with a single page",
     "skills": ["React JS", "CSS", "Html", "APIs"],
-    "source": ""
+    "source": "https://github.com/Eng-Ahmad-Makki/my-work.git",
+    "demo": "https://simple-weather-app007.netlify.app/"
+
   },
   {
-    "title": "crud App",
+    "title": "crud course App",
     "imageSrc": "projects/courseApp.png",
     "description": "I made This App in the road of learning React JS, you can check it out link down below",
     "skills": ["React JS", "CSS", "Html"],
-    "source": ""
-  },
-  {
-    "title": "Todo App",
-    "imageSrc": "projects/todoApp.png",
-    "description": "I made This todo app with a single page using ReactJS Html,Css, you can add and deletes from the todo list",
-    "skills": ["React JS", "CSS", "Html"],
-    "source": ""
+    "source": "https://github.com/Eng-Ahmad-Makki/crud-course-app.git"
   }
 ]

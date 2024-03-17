@@ -10,13 +10,21 @@ function Contacts() {
       </div>
       <ul className={styles.links}>
         <li className={styles.link}>
-          <a href="mailto:eng.ahmad.makki@gmail.com">
+          <a
+            href="mailto:eng.ahmad.makki@gmail.com"
+            target="_blank"
+            rel="noreferrer"
+          >
             {" "}
             <img src={getImageUrl("contact/emailIcon.png")} alt="Email icon" />
           </a>
         </li>
         <li className={styles.link}>
-          <a href="https://www.facebook.com/abojamal.007/">
+          <a
+            href="https://www.facebook.com/abojamal.007/"
+            target="_blank"
+            rel="noreferrer"
+          >
             <img
               src={getImageUrl("contact/facebook.png")}
               alt="FaceBook Icon"
@@ -24,7 +32,11 @@ function Contacts() {
           </a>
         </li>
         <li className={styles.link}>
-          <a href="https://www.linkedin.com/in/ahmad-makki007">
+          <a
+            href="https://www.linkedin.com/in/ahmad-makki007"
+            target="_blank"
+            rel="noreferrer"
+          >
             <img
               src={getImageUrl("contact/linkedinIcon.png")}
               alt="Linkedin icon"
@@ -33,13 +45,17 @@ function Contacts() {
         </li>
 
         <li className={styles.link}>
-          <a href="https://wa.me/963995557828">
+          <a href="https://wa.me/963995557828" target="_blank" rel="noreferrer">
             <img src={getImageUrl("contact/whatsup.png")} alt="Whats'up icon" />
           </a>
         </li>
 
         <li className={styles.link}>
-          <a href="https://github.com/Eng-Ahmad-Makki/my-work.git">
+          <a
+            href="https://github.com/Eng-Ahmad-Makki/my-work.git"
+            target="_blank"
+            rel="noreferrer"
+          >
             <img
               src={getImageUrl("contact/githubIcon.png")}
               alt="Github Icon"

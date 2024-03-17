@@ -2,7 +2,7 @@ import { getImageUrl } from "../../utils";
 import styles from "./ProjectsCard.module.css";
 
 function ProjectsCard({
-  project: { title, imageSrc, skills, description, source },
+  project: { title, imageSrc, skills, description, source, demo },
 }) {
   return (
     <div className={styles.container}>
@@ -25,7 +25,10 @@ function ProjectsCard({
       </ul>
       <div className={styles.links}>
         <a href={source} className={styles.link}>
-          GitHub Link
+          GitHub
+        </a>
+        <a href={demo} target="_blank" rel="noreferrer" className={styles.link}>
+          Demo
         </a>
       </div>
     </div>
